@@ -37,3 +37,9 @@
   justify-content: center;
   flex-direction: column-reverse;
 }
+
+i {
+  margin-right: 5px;
+  font-size: 16px;
+  align-items: center;
+}
